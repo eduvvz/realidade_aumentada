@@ -1,0 +1,3 @@
+rootProject.name = 'realidade_aumentada'
+
+include ':app'
